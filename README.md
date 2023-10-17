@@ -11,6 +11,9 @@ I currently work as a Software Engineer at [CI&T](https://ciandt.com/us/en-us). 
   <a href="(https://twitter.com/proxybees)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="([https://twitter.com/proxybees](https://stackoverflow.com/users/12561599/elizabeth))">
+    <img src="https://img.shields.io/badge/Stackoverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
+  </a>
 </div>
 
 
@@ -21,7 +24,7 @@ I currently work as a Software Engineer at [CI&T](https://ciandt.com/us/en-us). 
 
 - 💬 Ask me about Javascrip, Java and devops
 - 📫 How to reach me: ...
-😄 Pronouns: Her/she
+- 😄 Pronouns: Her/she
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
