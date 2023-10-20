@@ -23,7 +23,7 @@ I currently work as a Software Engineer at [CI&T](https://ciandt.com/us/en-us). 
 </div>
 
 - 💬 Ask me about Javascrip, Java and devops
-- 📫 How to reach me: ...
+- 📫 How to reach me: Email me 😄...
 - 😄 Pronouns: Her/she
 
 ### :hammer_and_wrench: Languages and Tools :
