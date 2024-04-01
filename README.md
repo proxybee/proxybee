@@ -8,10 +8,10 @@ I currently work as a Software Engineer at [CI&T](https://ciandt.com/us/en-us). 
   <a href="https://www.linkedin.com/in/ellzabethagoyi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="(https://twitter.com/proxybees)">
+  <a href="https://twitter.com/proxybees">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="([https://twitter.com/proxybees](https://stackoverflow.com/users/12561599/elizabeth))">
+  <a href="https://stackoverflow.com/users/12561599/elizabeth">
     <img src="https://img.shields.io/badge/Stackoverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
 </div>
