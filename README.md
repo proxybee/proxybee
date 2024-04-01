@@ -1,4 +1,4 @@
-### Hi there 👋 [I am Izzie](https://github.com/proxybee/)
+### Hi there 👋 [I am Elizabeth but you can call me Izzie](https://github.com/proxybee/profile)
 
 I code, I write, and I mentor.
 I am driven by and passionate about impact, inspired by the continuose improvement and growth of my employing organization
@@ -22,9 +22,16 @@ I currently work as a Software Engineer at [CI&T](https://ciandt.com/us/en-us). 
     <img src="https://komarev.com/ghpvc/?username=proxybee&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 💬 Ask me about Javascrip, Java and devops
-- 📫 How to reach me: Email me 😄...
-- 😄 Pronouns: Her/she
+Get a glimpse:
+
+- 💬 Ask me about: Javascrip, Java and devops
+- 📫 How to reach me: Email me 🙋‍♀️
+- 😄 Pronouns: She/Her
+- 🔭 I’m currently working on: A habbit curbing app...
+- 🌱 I’m currently learning: Python
+- 👯 I’m looking to collaborate on: Impacting open source Repos
+- 🤔 I’m looking for help with 🤔
+- ⚡ Fun fact: Ask me 🤣
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -70,3 +77,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+><em><strong>NOTE: My Github profile does not 100% represent my years of work experience, tools, languages, organizations, repositories or project I have worked on!!!</strong></em>
+
+You might find these resource useful:
+
+This is *[A Markdown Guide](https://www.markdownguide.org)*
+
+Take your *[Markdown Skill To The Next Level](https://www.markdownguide.org)*
