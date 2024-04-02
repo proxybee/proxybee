@@ -28,7 +28,7 @@ Get a glimpse:
 - 📫 How to reach me: Email me 🙋‍♀️
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on: A habbit curbing app...
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Python, Traffic Analysis, Network+, Security+
 - 👯 I’m looking to collaborate on: Impacting open source Repos
 - 🤔 I’m looking for help with 🤔
 - ⚡ Fun fact: Ask me 🤣
@@ -86,3 +86,5 @@ This is *[A Markdown Guide](https://www.markdownguide.org)*
 Take your *[Markdown Skill To The Next Level](https://www.markdownguide.org)*
 
 For your *[customized Badges](https://forthebadge.com/) or [icons](https://img.shields.io)*
+
+Browse *[Comptia Certs](https://www.comptia.org/certifications)
