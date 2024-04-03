@@ -85,6 +85,6 @@ This is *[A Markdown Guide](https://www.markdownguide.org)*
 
 Take your *[Markdown Skill To The Next Level](https://www.markdownguide.org)*
 
-For your *[customized Badges](https://forthebadge.com/) or [icons](https://img.shields.io)*
+For your *[Customized Badges](https://forthebadge.com/) or [icons](https://img.shields.io)*
 
-Browse *[Comptia Certs](https://www.comptia.org/certifications)
+Browse *[Comptia Certs](https://www.comptia.org/certifications)*
