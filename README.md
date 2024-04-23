@@ -90,7 +90,7 @@ For your *[Customized Badges](https://forthebadge.com/) or [icons](https://img.s
 Browse *[Comptia Certs](https://www.comptia.org/certifications)*
 
 Learning New Language 
-* *[TreeHouse](https://teamtreehouse.com/)
+* *[TreeHouse](https://teamtreehouse.com/)*
 
 * *[Pluralsight](https://www.pluralsight.com/)*
 
