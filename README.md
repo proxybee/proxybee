@@ -88,3 +88,11 @@ Take your *[Markdown Skill To The Next Level](https://www.markdownguide.org)*
 For your *[Customized Badges](https://forthebadge.com/) or [icons](https://img.shields.io)*
 
 Browse *[Comptia Certs](https://www.comptia.org/certifications)*
+
+Learning New Language 
+* *[TreeHouse](https://teamtreehouse.com/)
+
+* *[Pluralsight](https://www.pluralsight.com/)*
+
+Learning New Tool
+* *[Udemy](https://www.udemy.com/)*
