@@ -28,7 +28,7 @@ Get a glimpse:
 - 📫 How to reach me: Email me 🙋‍♀️
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on: A habbit curbing app...
-- 🌱 I’m currently learning: Python, Traffic Analysis, Network+, Security+
+- 🌱 I’m currently learning: Python, Cynersecurity, Network+, Security+
 - 👯 I’m looking to collaborate on: Impacting open source Repos
 - 🤔 I’m looking for help with 🤔
 - ⚡ Fun fact: Ask me 🤣
