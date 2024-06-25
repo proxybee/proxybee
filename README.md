@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 -->
 ><em><strong>NOTE: My Github profile does not 100% represent my years of work experience, tools, languages, organizations, repositories or project I have worked on!!!</strong></em>
 
-You might find these resource useful:
+## You might find these useful:
 
 This is *[A Markdown Guide](https://www.markdownguide.org)*
 
@@ -89,10 +89,18 @@ For your *[Customized Badges](https://forthebadge.com/) or [icons](https://img.s
 
 Browse *[Comptia Certs](https://www.comptia.org/certifications)*
 
-Learning New Language 
-* *[TreeHouse](https://teamtreehouse.com/)*
-
-* *[Pluralsight](https://www.pluralsight.com/)*
-
-Learning New Tool
-* *[Udemy](https://www.udemy.com/)*
+### Resources
+- [TreeHouse](https://teamtreehouse.com/)*
+- [Pluralsight](https://www.pluralsight.com/)*
+- [Udemy](https://www.udemy.com/)*
+- [React Redux Links](https://github.com/markerikson/react-redux-links)
+- [Full Stack Python](https://www.fullstackpython.com/)
+- [Node School](https://nodeschool.io/)
+- [ScotchIO](https://scotch.io/)
+- [Exercism](http://www.exercism.io/)
+- [Egghead.io](http://www.egghead.io/)
+- [Michael Herman's Blog](http://mherman.org/)
+- [Thinkster.io](http://thinkster.io)
+- [Enlight](https://enlight.nyc/)
+- [Hack Club Workshops](https://hackclub.com/workshops/)
+- [CodeCrafters](https://codecrafters.io/)
