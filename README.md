@@ -89,10 +89,12 @@ For your *[Customized Badges](https://forthebadge.com/) or [icons](https://img.s
 
 Browse *[Comptia Certs](https://www.comptia.org/certifications)*
 
+Project Management Software Compare *[GetApp](https://www.getapp.com/project-management-planning-software)*
+
 ### Resources
-- [TreeHouse](https://teamtreehouse.com/)*
-- [Pluralsight](https://www.pluralsight.com/)*
-- [Udemy](https://www.udemy.com/)*
+- [TreeHouse](https://teamtreehouse.com/)
+- [Pluralsight](https://www.pluralsight.com/)
+- [Udemy](https://www.udemy.com/)
 - [React Redux Links](https://github.com/markerikson/react-redux-links)
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Node School](https://nodeschool.io/)
