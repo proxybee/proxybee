@@ -91,7 +91,12 @@ Browse *[Comptia Certs](https://www.comptia.org/certifications)*
 
 Project Management Software Compare *[GetApp](https://www.getapp.com/project-management-planning-software)*
 
-### Resources
+### Cloud Services
+- [Google Cloud](https://cloud.google.com/)
+- [AWS Amazon Console](https://aws.amazon.com/console/)
+- [Microsoft Azure](https://azure.microsoft.com/en-us/)
+
+### Other Resources
 - [TreeHouse](https://teamtreehouse.com/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [Udemy](https://www.udemy.com/)
