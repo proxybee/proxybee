@@ -91,7 +91,7 @@ Browse *[Comptia Certs](https://www.comptia.org/certifications)*
 
 Project Management Software Compare *[GetApp](https://www.getapp.com/project-management-planning-software)*
 
-Road Map to Learn any Language/Stack *[RoadMap](https://roadmap.sh/)*
+Road Map to Learn any Role/Skill *[RoadMap](https://roadmap.sh/)*
 
 ### Cloud Services
 - [Google Cloud](https://cloud.google.com/)
