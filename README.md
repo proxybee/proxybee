@@ -98,10 +98,22 @@ Road Map to Learn any Role/Skill *[RoadMap](https://roadmap.sh/)*
 - [AWS Amazon Console](https://aws.amazon.com/console/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/)
 
-### Other Resources
+### UI Inspiration and Resources
+- [Navbar Gallery](https://www.navbar.gallery/)
+
+### Learn Anything
+- [Dev Documents](https://devdoc.io/)
+- [Quick Ref](https://quickref.me/)
 - [TreeHouse](https://teamtreehouse.com/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [Udemy](https://www.udemy.com/)
+
+### Build Anything
+- [Buld Your Own X Repository](https://github.com/codecrafters-io/build-your-own-x)
+
+### Other Resources
+- [Digital Ocean](https://docs.digitalocean.com/)
+- [Dev.to community](https://dev.to/)
 - [React Redux Links](https://github.com/markerikson/react-redux-links)
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Node School](https://nodeschool.io/)
@@ -113,3 +125,4 @@ Road Map to Learn any Role/Skill *[RoadMap](https://roadmap.sh/)*
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
+- [Code central](https://www.codecentral.com/)
