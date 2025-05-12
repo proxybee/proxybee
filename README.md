@@ -1,4 +1,4 @@
-### Hi there 👋 [I am Elizabeth but you can call me Izzie](https://github.com/proxybee/profile)
+### Hi there 👋 [I am Elizabeth but you can call me Izzie](https://github.com/eagoyi/profile)
 
 I code, I write, and I mentor.
 I am driven by and passionate about impact, inspired by the continuose improvement and growth of my employing organization
@@ -8,7 +8,7 @@ I currently work as a Software Engineer at [CI&T](https://ciandt.com/us/en-us). 
   <a href="https://www.linkedin.com/in/ellzabethagoyi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="https://twitter.com/proxybees">
+<!--   <a href="https://twitter.com/eagoyis">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
   <a href="https://stackoverflow.com/users/12561599/elizabeth">
@@ -19,7 +19,7 @@ I currently work as a Software Engineer at [CI&T](https://ciandt.com/us/en-us). 
 
 <div align="center">
     <a href="mailto:elizabethagoyi2@gmail.com"><img src="https://img.shields.io/badge/Elizabeth%20Agoyi-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:elizabethagoyi2@gmail.com" alt="Gmail Badge"></a>
-    <img src="https://komarev.com/ghpvc/?username=proxybee&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=eagoyi&style=flat-square&color=blue" alt=""/>
 </div>
 
 Get a glimpse:
@@ -53,18 +53,18 @@ Get a glimpse:
 
 ### :fire: My GH Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=proxybee&&theme=tokyonight" alt="Elizabeth Agoyi" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eagoyi&&theme=tokyonight" alt="Elizabeth Agoyi" /></p> -->
 
-<!-- [![Proxybee GitHub stats](https://github-readme-stats.vercel.app/api?username=proxybee&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](#!) -->
+<!-- [![eagoyi GitHub stats](https://github-readme-stats.vercel.app/api?username=eagoyi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](#!) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proxybee&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eagoyi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 <!--
-**proxybee/proxybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eagoyi/eagoyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
